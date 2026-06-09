@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hemanth Kumar
    
-   ## 🎯 Azure Data Engineer | 4+ Years Experience | DP-203 Certified
+   ## 🎯 Azure Data Engineer | 4+ Years Experience | 
    
    I'm a passionate data engineer specializing in building scalable data pipelines and analytics solutions on Microsoft Azure. Currently upskilling in prompt engineering and AI-driven data solutions.
    
